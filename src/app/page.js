@@ -11,7 +11,7 @@ export default function Pokemones({ pokemones }) {
   console.log(pokemones)
   return (
     <div>
-      <p>Pokemones</p>
+      <p>Mi App de pokemones que no tiene pokemones</p>
       <ul>
 
       </ul>
